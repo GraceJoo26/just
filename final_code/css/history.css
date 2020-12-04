@@ -1,0 +1,242 @@
+
+#drug{
+    width:1600px; height: 1100px;
+    background-image: url(../picture/halacious-left-unsplash.jpg);
+}
+.druginfo_view h2{
+    text-align:center;
+    line-height:900px;
+    font-size:8rem;
+}
+
+#drug > .druginfo_list{
+    width: 845px; height: 77px;
+    margin:auto;
+}
+.druginfo_list h3{
+    float: left;
+    width:140px; height: 77px;
+    background-color: #ccc;
+    font-size: 2rem;
+    line-height: 5rem;
+    text-align: center;
+}
+
+
+
+#history_intro{
+    margin:auto;
+    width: 1263px;height:800px;
+   
+}
+#history_intro h2{
+    padding:30px ;
+
+}
+
+.history_info_01{
+    margin-left: 30px;
+    float:left;
+    width: 380px;height: 710px;
+    margin-right: 3px;
+    
+}
+/*#history_info_01 > .con_arrow .next_arrow {
+    font-size:3rem;
+    display: block; 
+    position:relative;
+    z-index: 9;
+    left:60px; top:500px;
+}*/
+
+.history_info_01> .img li{
+    width: 380px;height: 337px;
+    background-color: #fff;
+    background-image: url(../picture/lab8.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.history_info_01>dl{
+    height:300px;
+    border: dotted #ccc 0.1rem;
+   
+}
+
+dd{padding:10px}
+dl{background-color: #fff; padding:10px;}
+
+.history_info_01>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.history_info_02{
+    float:left;
+    width: 380px;height:710px;
+    background-color: #fff;
+    margin-right:3px;
+}
+.history_info_02>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/lab2.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.history_info_02>dl{
+    height: 300px;
+    border: dotted #ccc 0.1rem;
+   
+}
+
+.history_info_02>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.history_info_03{
+    float:left;
+    width: 380px;height: 710px;
+    background-color: #fff;
+    margin-right:3px;
+}
+.history_info_03>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/lab3.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.history_info_03>dl{
+    height: 300px;
+    border: dotted #ccc 0.1rem;
+   
+}
+
+.history_info_03>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+#history_after{
+    margin-left:170px;
+    width: 1263px;height: 1000px;
+    
+}
+#history_after h2{
+   padding: 30px;
+}
+
+.history_info_04{
+    float:left;
+    padding-left: 30px;
+    width: 300px;height: 710px;
+     background-color: #fff;
+     margin-right: 3px;
+    }
+   
+.history_info_04>ul>li{
+    width: 300px;height: 337px;
+    background-image: url(../picture/lab4.jpg);
+    background-position: -150px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.history_info_04>dl{
+    height: 450px;
+    border: dotted #ccc 0.1rem;
+    padding:30px;
+
+}
+
+.history_info_04>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.history_info_05{
+    float:left;
+    width: 300px;height: 710px;
+    background-color: #fff;
+    margin-right: 3px;
+}
+
+.history_info_05>ul>li{
+    width: 300px;height: 337px;
+    background-image: url(../picture/lab5.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.history_info_05>dl{
+    height: 450px;
+    border: dotted #ccc 0.1rem;
+    padding:30px;
+}
+
+.history_info_05>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.history_info_06{
+    float:left;
+    width: 300px;height: 710px;
+    background-color: #fff;
+    margin-right: 3px;
+}
+.history_info_06>ul>li{
+    width: 300px;height: 337px;
+    background-image: url(../picture/lab7.jpg);
+    background-position: -150px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.history_info_06>dl{
+    height: 450px;
+    border: dotted #ccc 0.1rem;
+    padding:30px;
+}
+
+.history_info_06>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.history_info_07{
+    float:left;
+    padding-right: 30px ;
+    width: 290px;height: 710px;
+    background-color: #fff;
+    margin-right: 3px;
+}
+.history_info_07>ul>li{
+    width: 290px;height: 337px;
+    background-image: url(../picture/lab6.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.history_info_07>dl{
+    height: 450px;
+    border: dotted #ccc 0.1rem;
+    padding:30px;
+}
+
+.history_info_07>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+#footer{
+    width:1600px; height: 500px;
+    background-color: rgba(194,194,193);
+}
+address{
+    font-size: 2rem;
+    text-align:center;
+    padding:170px;
+}

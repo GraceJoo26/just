@@ -1,0 +1,9 @@
+#footer{
+  width:1600px; height: 500px;
+  background-color: rgba(194,194,193);
+}
+address{
+  font-size: 2rem;
+  text-align:center;
+  padding:170px;
+}

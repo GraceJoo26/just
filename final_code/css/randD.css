@@ -1,0 +1,219 @@
+
+#randD{
+    width:1600px; height: 1100px;
+    background-image:url(../picture/halacious-midspread-unsplash.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.randDinfo_view h2{
+    text-align:center;
+    line-height:900px;
+    font-size:8rem;
+}
+
+#randD > .druginfo_list{
+    width: 845px; height: 77px;
+    margin:auto;
+}
+.randDinfo_list h3{
+    float: left;
+    width:140px; height: 77px;
+    background-color: #ccc;
+    font-size: 2rem;
+    line-height: 5rem;
+    text-align: center;
+}
+
+#randD_intro{
+    margin:auto;
+    width: 1263px;height:1200px;  
+}
+
+#randD_intro h2{
+    padding:30px 
+}
+.randD_info_01{
+    margin-left: 30px;
+    float:left;
+    width: 380px;height: 710px;
+    margin-right:3px;
+    
+}
+.randD_info_01>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/univ1.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.randD_info_01>dl{
+    height:650px;
+    border: dotted #ccc 0.1rem;
+   
+}
+
+dd{padding:10px}
+dl{background-color: #fff; padding:10px;}
+
+.randD_info_01>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.randD_info_02{
+    float:left;
+    width: 380px;height:710px;
+    background-color: #fff;
+    margin-right: 3px;
+}
+.randD_info_02>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/univ2.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.randD_info_02>dl{
+    height: 650px;
+    border: dotted #ccc 0.1rem;
+}
+
+.randD_info_02>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.randD_info_03{
+    float:left;
+    width: 380px;height: 710px;
+    background-color: #fff;
+}
+.randD_info_03>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/univ3.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.randD_info_03>dl{
+    height: 650px;
+    border: dotted #ccc 0.1rem;
+}
+
+.randD_info_03>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+#randD_01{
+    width:1600px; height: 1100px;
+    background-color: #cdc;
+}
+.randDinfo_view_01 h2{
+    text-align:center;
+    line-height:900px;
+    font-size:8rem;
+}
+
+/*#randD_01 > .druginfo_list{
+    width: 845px; height: 77px;
+    margin:auto;
+}
+.randDinfo_list h3{
+    float: left;
+    width:140px; height: 77px;
+    background-color: #ccc;
+    font-size: 2rem;
+    line-height: 5rem;
+    text-align: center;
+}*/
+
+#randD_01{
+    margin:auto;
+    width: 1263px;height:800px;
+   
+}
+#randD_intro h2{
+    padding:30px 
+}
+.randD_info_04{
+    margin-left: 30px;
+    float:left;
+    width: 380px;height: 710px;
+    background-color: #fff;
+    margin-right:3px;
+}
+.randD_info_04>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/univ4.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.randD_info_04>dl{
+    height:650px;
+    border: dotted #ccc 0.1rem;
+   
+}
+
+dd{padding:10px}
+dl{background-color: #fff; padding:10px;}
+
+.randD_info_04>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.randD_info_05{
+    float:left;
+    width: 380px;height:710px;
+    background-color: #fff;
+    margin-right: 3px;
+}
+.randD_info_05>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/univ5.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.randD_info_05>dl{
+    height: 650px;
+    border: dotted #ccc 0.1rem;
+   
+}
+
+.randD_info_05>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+.randD_info_06{
+    float:left;
+    width: 380px;height: 710px;
+    background-color: #fff;
+    margin-right: 3px;
+}
+.randD_info_06>ul>li{
+    width: 380px;height: 337px;
+    background-image: url(../picture/univ7.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+}
+.randD_info_06>dl{
+    height: 650px;
+    border: dotted #ccc 0.1rem;
+   
+}
+
+.randD_info_06>dl>dt{
+    font-size:1.3rem;
+    margin-bottom: 30px;
+}
+
+
+
+#footer{
+    width:1600px; height: 500px;
+    background-color: rgba(194,194,193);
+}
+address{
+    font-size: 2rem;
+    text-align:center;
+    padding:170px;
+}

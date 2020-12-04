@@ -1,0 +1,147 @@
+
+
+#news{
+  width:1600px; height:1000px;
+  background-image: url(../../picture/adrien-ledoux-mBHuEkka5wM-unsplash_01.jpg);
+  background-position:0 0;  
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#news > .drug_info{
+  width:1600px; height:823px;
+  float:left;
+}
+.drug_info li{
+  float:left; 
+  margin:20px;
+  width: 200px; height: 200px;
+  background-color: #fff;
+}
+
+.drug h2{
+  width:1000px; height: auto;
+  padding-top: 30px;
+  font-size:3rem;
+  margin-left: 170px;
+  background-color: none;
+}
+
+.drug_info li:nth-child(1){
+  margin-top:126px;
+  margin-left:170px;
+  margin-right:20px; 
+  background-image: url(../../picture/aldoctone25mg.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.drug_info li:nth-child(2){
+  background-image: url(../../picture/aeris.jpg);
+background-position: 50% 50%;
+ background-repeat: no-repeat;
+ background-size: contain;
+ margin-top:126px;
+}
+.drug_info li:nth-child(3){
+  background-image: url(../../picture/aromacine.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+ margin-top:126px;
+}
+.drug_info li:nth-child(4){
+  background-image: url(../../picture/benefix.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+ margin-top:126px;
+}
+.drug_info li:nth-child(5){
+ float:right;
+ width: 280px;height: 680px;
+ margin-top:126px;
+ margin-right:150px;
+ margin-bottom:50px;
+}
+
+.drug_info li:nth-child(6){
+  margin-top:20px;
+  margin-left:170px;
+  margin-right:20px;
+  background-image: url(../../picture/besponsa.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.drug_info li:nth-child(7){
+  margin-top:20px;
+  margin-right:20px;
+  background-image: url(../../picture/carduet.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.drug_info li:nth-child(8){
+  margin-top:20px;
+  margin-right:20px;
+  background-image: url(../../picture/carduraXR.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.drug_info li:nth-child(9){
+  margin-top:20px;
+  margin-right:20px;
+  background-image: url(../../picture/estrasit.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.drug_info li:nth-child(10){
+  margin-top:20px;
+  margin-left:170px;
+  margin-right:20px;
+  background-image: url(../../picture/gafraton.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.drug_info li:nth-child(11){
+  margin-top:20px;
+  margin-right:20px;
+  background-image: url(../../picture/ginotrophin.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.drug_info li:nth-child(12){
+  margin-top:20px;
+  margin-right:20px;
+  background-image: url(../../picture/estrasit.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.drug_info li:nth-child(12){
+  margin-top:20px;
+  margin-right:20px;
+  background-image: url(../../picture/ifexa.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.drug_info li:nth-child(13){
+  margin-top:20px;
+  margin-right:20px;
+  background-image: url(../../picture/inrightar.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

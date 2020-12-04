@@ -1,0 +1,231 @@
+
+#drug{
+    width:1600px; height: 1100px;
+    background-image: url(../picture/halacious-left-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: contain;
+}
+.druginfo_view h2{
+    text-align:center;
+    line-height:900px;
+    font-size:8rem;
+}
+
+#drug > .druginfo_list{
+    width: 845px; height: 77px;
+    margin:auto;
+}
+.druginfo_list h3{
+    float: left;
+    width:140px; height: 77px;
+    background-color: #ccc;
+    font-size: 2rem;
+    line-height: 5rem;
+    text-align: center;
+}
+.druginfo_list li:nth-child(2){
+    float:left;
+    margin-left: 5px;
+    width:560px; height: 77px;
+    background-color: #fff;
+}
+.druginfo_list li:last-child{
+    float:left;
+    width:140px; height: 77px;
+    background-color: #ccc;
+    font-size: 3rem;
+    text-align:center;
+    line-height: 5rem;
+}
+
+#drug_intro{
+    width:1600px; height:1000px;
+    background-color: #fff;
+}
+.druginfo_intro{
+    margin-left:170px;
+    margin-top: 60px;
+    width: 1300px; height: 800px;
+    background-color: #fff;
+}
+
+.druginfo_intro> .drug_01{
+    width:1300px; height: 70px;
+    margin-top: 60px;
+   /* position: relative;*/
+}
+
+.drug_01 dt{
+    float:left;
+    background-color: #ccc;
+    width: 80px;height: 68px;
+    text-align: center;
+    font-size:2rem;
+    border: 0.2px #333 solid;
+    line-height:60px;
+}
+
+.drug_01 dd{
+    float:left;
+    background-color: #fff;
+    width:38px; height:65px;
+    margin:1.2px;
+    padding:1px;
+    text-align: center;
+    font-size:2.3rem;
+    border: 0.2px #333 solid;
+}
+.drug_01 > dd a:hover,
+.drug_01 > dd a:target{
+    color:#0093d0;
+}
+
+
+.drug_text_01,
+.drug_text_02,
+.drug_text_03,
+.drug_text_04,
+.drug_text_05,
+.drug_text_06,
+.drug_text_07,
+.drug_text_08 {
+     float:left;
+     width:290px; height: 310px;
+     border: 0.2rem #ccc solid;
+     margin-top:36px;
+     margin-left:8px;    
+}
+.drug_text_05,
+.drug_text_06,
+.drug_text_07,
+.drug_text_08{margin-top: 8px;}
+
+
+.drug_text_01{
+    background-image: url(../picture/aldoctone25mg.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.drug_text_02{
+    background-image: url(../picture/aeris.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.drug_text_04{
+    background-image: url(../picture/aromacine.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.drug_text_05{
+    background-image: url(../picture/benefix.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+}
+
+.drug_text_06{
+    background-image: url(../picture/besponsa.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: contain;
+}
+
+.drug_text_07{
+    background-image: url(../picture/carduet.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.drug_text_08{
+    background-image: url(../picture/carduraXR.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.drug_text_01 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_01 dd{
+    margin-top: 210px;
+    text-align:left;
+    font-size:0.9rem;
+
+}
+.drug_text_02 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_02 dd{
+    margin-top: 210px;
+    text-align:left;
+    font-size:0.9rem;
+}
+.drug_text_03 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_03 dd{
+    margin-top: 210px;
+    text-align:left;
+    font-size:0.9rem;
+}
+.drug_text_04 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_04 dd{
+    margin-top: 210px;
+    text-align:left;
+    font-size:0.9rem;
+}
+.drug_text_05 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_05 dd{
+    margin-top: 210px;
+    text-align:left;
+    font-size:0.9rem;
+}
+.drug_text_06 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_06 dd{
+    margin-top: 210px;
+    text-align:left;
+    font-size:0.9rem;
+}
+.drug_text_07 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_07 dd{
+    margin-top: 200px;
+    text-align:left;
+    font-size:0.8rem;
+}
+.drug_text_08 dt { 
+    font-size: 1.3rem;
+}
+
+.drug_text_08 dd{
+    margin-top: 210px;
+    text-align:left;
+    font-size:0.9rem;
+}
+
+#footer{
+    width:1600px; height: 500px;
+    background-color: rgba(194,194,193);
+}
+address{
+    font-size: 2rem;
+    text-align:center;
+    padding:170px;
+}
